@@ -1,0 +1,17 @@
+E:\EducationData\Repository\bin\Debug\net7.0\Repository.deps.json
+E:\EducationData\Repository\bin\Debug\net7.0\Repository.runtimeconfig.json
+E:\EducationData\Repository\bin\Debug\net7.0\Repository.dll
+E:\EducationData\Repository\bin\Debug\net7.0\Repository.pdb
+E:\EducationData\Repository\bin\Debug\net7.0\Domain.dll
+E:\EducationData\Repository\bin\Debug\net7.0\Domain.pdb
+E:\EducationData\Repository\obj\Debug\net7.0\Repository.csproj.AssemblyReference.cache
+E:\EducationData\Repository\obj\Debug\net7.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\EducationData\Repository\obj\Debug\net7.0\Repository.AssemblyInfoInputs.cache
+E:\EducationData\Repository\obj\Debug\net7.0\Repository.AssemblyInfo.cs
+E:\EducationData\Repository\obj\Debug\net7.0\Repository.csproj.CoreCompileInputs.cache
+E:\EducationData\Repository\obj\Debug\net7.0\Repository.csproj.CopyComplete
+E:\EducationData\Repository\obj\Debug\net7.0\Repository.dll
+E:\EducationData\Repository\obj\Debug\net7.0\refint\Repository.dll
+E:\EducationData\Repository\obj\Debug\net7.0\Repository.pdb
+E:\EducationData\Repository\obj\Debug\net7.0\Repository.genruntimeconfig.cache
+E:\EducationData\Repository\obj\Debug\net7.0\ref\Repository.dll
